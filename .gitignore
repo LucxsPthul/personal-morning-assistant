@@ -1,0 +1,24 @@
+# Credenciais privadas
+.env
+.env.*
+!.env.example
+**/credentials.json
+**/token.json
+**/gmail_token.json
+**/*token*.json
+
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.log
+
+# Dados e registros locais
+**/ultimo_envio.json
+**/briefing_log.txt
+
+# Configurações locais
+.vscode/
