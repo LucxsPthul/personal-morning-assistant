@@ -10,7 +10,8 @@ desenvolvido em Python para automatizar a organização diária.
 
 O sistema consulta compromissos do Google Calendar,
 utiliza inteligência artificial para gerar um briefing
-personalizado e envia o resumo por e-mail através do Gmail.
+personalizado e envia o resumo por e-mail através do Gmail,
+no horário que desejar.
 
 ## Funcionalidades
 
@@ -34,7 +35,7 @@ personalizado e envia o resumo por e-mail através do Gmail.
 
 ## Status
 
-Projeto pessoal em desenvolvimento.
+Projeto pessoal em execução.
 
 ## Segurança
 
